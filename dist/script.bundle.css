@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC);
+
+h1, h2, h3, h4, font, span {
+        font-family: 'Noto Sans TC';
+}
+.dark_green_color {
+        color: #19a2b8;
+}
+.primary_color {
+        color: #027bff;
+}
+.green_color {
+        color: #2ca848;
+}
+.yellow_color {
+        color: #ffc107;
+}
+.brown_color {
+        color: #a7630d;
+}
+
+
+.row {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+.clickable {
+	cursor: pointer;
+}
+
+
+[v-cloak] {
+    display: none;
+}
+body  {
+    font-family:Meiryo, Arial,Verdana,Sans-Serif, Microsoft JhengHei; 
+    margin: auto auto;
+    -webkit-overflow-scrolling: touch;
+}
+.underline {
+    border-color: #f0f0f0;
+}
+
+
+/*# sourceMappingURL=script.bundle.css.map*/
